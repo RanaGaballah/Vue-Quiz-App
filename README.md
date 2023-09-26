@@ -71,7 +71,7 @@ Make sure you have the following software installed on your system:
 2. Open your web browser and visit the following URL:
 
    ```
-   http://localhost:8080
+   http://localhost:5173/
    ```
 
 3. You will be directed to the homepage of the quiz app, where you can start taking quizzes.
